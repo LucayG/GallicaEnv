@@ -1,0 +1,658 @@
+BnF  Catalogue général
+
+Rappel de la demande : 20 notice(s) d'autorité sélectionnée(s)
+Forme : Notices complètes
+Format : Unimarc
+
+********************************************
+
+ 000 cx j22 45 
+ 001 FRBNF119312577 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb119312577 
+ 005 20010626 
+ 039 .. $o OPL $a 00151884X 
+ 100 .. $a 19820209afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Contrôle de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Contrôle 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Gestion 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Politique gouvernementale 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement, Politique de l' 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement et État 
+ 450 .. $7 ba0yba0y $8 fre $9 $a État et environnement 
+ 510 .. $5 h $3 16027718 $7 ba0yba0y $8 fre $9 20 $a Grenelle Environnement $f 2007 $e Paris 
+ 550 .. $5 z $0 Voir aussi $3 18000921 $7 ba0yba0y $8 fre $9 $a Écocide 
+ 550 .. $5 z $0 Voir aussi $3 16999025 $7 ba0yba0y $8 fre $9 $a Transition écologique 
+ 550 .. $5 z $0 Voir aussi $3 15985069 $7 ba0yba0y $8 fre $9 $a Servitudes environnementales 
+ 550 .. $5 z $0 Voir aussi $3 15566354 $7 ba0yba0y $8 fre $9 $a Empreinte écologique 
+ 550 .. $5 z $0 Voir aussi $3 11940309 $7 ba0yba0y $8 fre $9 $a Conservation des ressources naturelles 
+ 550 .. $5 z $0 Voir aussi $3 13318499 $7 ba0yba0y $8 fre $9 $a Écologie humaine 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 13555607 $7 ba0yba0y $8 fre $9 $a Génie écologique 
+ 550 .. $5 z $0 Voir aussi $3 12500790 $7 ba0yba0y $8 fre $9 $a Gestion de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11932055 $7 ba0yba0y $8 fre $9 $a Nature $x Effets de l'homme 
+ 550 .. $5 z $0 Voir aussi $3 11948615 $7 ba0yba0y $8 fre $9 $a Qualité de la vie 
+ 550 .. $5 z $0 Voir aussi $3 11976343 $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 550 .. $5 h $3 18006440 $7 ba0yba0y $8 fre $9 $a Green New Deal 
+ 550 .. $5 h $3 17046077 $7 ba0yba0y $8 fre $9 $a Écologisation 
+ 550 .. $5 h $3 16737216 $7 ba0yba0y $8 fre $9 $a Paiements pour les services écosystémiques 
+ 550 .. $5 h $3 11952354 $7 ba0yba0y $8 fre $9 $a Aménagement du territoire $x Aspect environnemental 
+ 550 .. $5 h $3 16539883 $7 ba0yba0y $8 fre $9 $a Agendas 21 locaux 
+ 550 .. $5 h $3 16245719 $7 ba0yba0y $8 fre $9 $a Compensation carbone 
+ 550 .. $5 h $3 13577153 $7 ba0yba0y $8 fre $9 $a Justice environnementale 
+ 550 .. $5 h $3 14554044 $7 ba0yba0y $8 fre $9 $a Permis de pollution négociables 
+ 550 .. $5 h $3 12322531 $7 ba0yba0y $8 fre $9 $a Eau $x Politique publique 
+ 550 .. $5 h $3 12168038 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Subventions 
+ 550 .. $5 h $3 12246677 $7 ba0yba0y $8 fre $9 $a Audits d'environnement 
+ 550 .. $5 h $3 12323145 $7 ba0yba0y $8 fre $9 $a Conseillers en environnement 
+ 550 .. $5 h $3 11967247 $7 ba0yba0y $8 fre $9 $a Environnement $x Surveillance 
+ 550 .. $5 h $3 11981536 $7 ba0yba0y $8 fre $9 $a Nations unies $x Politique de l'environnement 
+ 550 .. $5 h $3 12073633 $7 ba0yba0y $8 fre $9 $a Pesticides $x Politique publique 
+ 550 .. $5 h $3 11951052 $7 ba0yba0y $8 fre $9 $a Politique forestière 
+ 550 .. $5 h $3 11932823 $7 ba0yba0y $8 fre $9 $a Pollution 
+ 550 .. $5 h $3 12329246 $7 ba0yba0y $8 fre $9 $a Fiscalité écologique 
+ 686 .. $a 350 $c Administration publique $2 Note de regroupement par domaine 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20010626 
+ 822 1. $a Environmental policy $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044197 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb119312577.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF125007904 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb125007901 
+ 005 20200722 
+ 039 .. $o OPL $a 012165814 
+ 100 .. $a 19960212afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Gestion de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Contrôle de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Contrôle 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Gestion 
+ 550 .. $5 z $0 Voir aussi $3 11952354 $7 ba0yba0y $8 fre $9 $a Aménagement du territoire $x Aspect environnemental 
+ 550 .. $5 z $0 Voir aussi $3 13318499 $7 ba0yba0y $8 fre $9 $a Écologie humaine 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 11932055 $7 ba0yba0y $8 fre $9 $a Nature $x Effets de l'homme 
+ 550 .. $5 z $0 Voir aussi $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11976343 $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 550 .. $5 h $3 13555607 $7 ba0yba0y $8 fre $9 $a Génie écologique 
+ 550 .. $5 h $3 12500529 $7 ba0yba0y $8 fre $9 $a Gestion des écosystèmes 
+ 550 .. $5 h $3 12566082 $7 ba0yba0y $8 fre $9 $a Gestion des paysages forestiers 
+ 550 .. $5 h $3 12290300 $7 ba0yba0y $8 fre $9 $a Gestion des ressources naturelles 
+ 550 .. $5 g $3 11950206 $7 ba0yba0y $8 fre $9 $a Gestion 
+ 550 .. $5 g $3 11973604 $7 ba0yba0y $8 fre $9 $a Sciences de l'environnement 
+ 686 .. $a 650 $c Gestion et organisation de l'entreprise $2 Note de regroupement par domaine 
+ 686 .. $a 577 $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20200722 
+ 822 12 $a Environmental management $2 LCSH $u http://id.loc.gov/authorities/subjects/sh95010683 $d 2020-07-22 
+ 822 12 $a Environnement--Gestion $2 RVMLaval $d 2020-07-22 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb125007901.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF119672479 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb119672470 
+ 005 20000902 
+ 039 .. $o OPL $a 001999401 
+ 100 .. $a 19841019afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Surveillance 
+ 305 1. $a Voir aussi la subdivision Mesure aux polluants ou aux autres sujets liés à l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Contrôle de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Contrôle 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Surveillance de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 17020336 $7 ba0yba0y $8 fre $9 $a Environnement $x Qualité 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 2 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 15559145 $7 ba0yba0y $8 fre $9 $a Commissions locales d'information et de surveillance 
+ 550 .. $5 z $0 Voir aussi $3 11938453 $7 ba0yba0y $8 fre $9 2 $a Mesure 
+ 550 .. $5 z $0 Voir aussi $3 11952886 $7 ba0yba0y $8 fre $9 2 $a Pollution $x Mesure 
+ 550 .. $5 z $0 Voir aussi $3 12405060 $7 ba0yba0y $8 fre $9 $a Banques d'échantillons biologiques de l'environnement 
+ 550 .. $5 h $3 16143338 $7 ba0yba0y $8 fre $9 $a Bilan des émissions de gaz à effet de serre 
+ 550 .. $5 h $3 14519769 $7 ba0yba0y $8 fre $9 $a Environnement $x Échantillonnage 
+ 550 .. $5 h $3 11959545 $7 ba0yba0y $8 fre $9 2 $a Air $x Qualité -- Postes de surveillance 
+ 550 .. $5 h $3 11982248 $7 ba0yba0y $8 fre $9 $a Eau $x Qualité -- Postes de surveillance 
+ 550 .. $5 h $3 11952258 $7 ba0yba0y $8 fre $9 2 $a Environnement $x Études d'impact 
+ 550 .. $5 g $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20000902 
+ 822 12 $a Environnement -- Surveillance $2 RVMLaval $d 2000-09-02 
+ 822 1. $a Environmental monitoring $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044194 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb119672470.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF170200072 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb17020007z 
+ 005 20160210 
+ 035 .. $a (Sudoc)189540451 
+ 100 .. $a 20160118afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Interaction gène-environnement 
+ 330 .. $a Sous cette vedette, on trouve les documents sur l'interaction entre l'environnement et l'expression des gènes d'un individu. Les documents sur l'influence de l'environnement sur la reproduction et le développement d'un individu se trouvent sous Épigénétique 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Interaction gènes-environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 2 $a Interaction génotype-environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Interactions gène-environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Interactions gènes-environnement 
+ 550 .. $5 z $0 Voir aussi $3 11938315 $7 ba0yba0y $8 fre $9 $a Écotoxicologie 
+ 550 .. $5 z $0 Voir aussi $3 11974343 $7 ba0yba0y $8 fre $9 $a Environnement 
+ 550 .. $5 z $0 Voir aussi $3 14560895 $7 ba0yba0y $8 fre $9 $a Épigénétique 
+ 550 .. $5 z $0 Voir aussi $3 12224891 $7 ba0yba0y $8 fre $9 $a Gènes 
+ 550 .. $5 z $0 Voir aussi $3 11954893 $7 ba0yba0y $8 fre $9 $a Homme $x Effets de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 17023642 $7 ba0yba0y $8 fre $9 $a Origines développementales de la santé et des maladies 
+ 550 .. $5 z $0 Voir aussi $3 16272920 $7 ba0yba0y $8 fre $9 $a Plasticité phénotypique 
+ 550 .. $5 g $3 11939046 $7 ba0yba0y $8 fre $9 $a Génétique 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20160210 
+ 810 .. $a Impact des interactions gène-environnement sur l'expression de deux gènes reliés à la croissance chez l'omble de fontaine, Salvelinus fontinalis / G. Côté, 2007 [thèse] $a Les interactions gène-environnement dans les études génétiques des maladies complexes / R. Kazma, 2010 [thèse] $a Cancer et environnement : expertises collectives / Agence française de sécurité sanitaire de l'environnement et du travail, Institut national de la santé et de la recherche médicale, 2008 (p. 161) 
+ 822 1. $a Genotype-environment interaction $2 LCSH $u http://id.loc.gov/authorities/subjects/sh96001717 $d 2016-02-10 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb17020007z.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF11931256X 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb11931256w 
+ 005 20160119 
+ 039 .. $o OPL $a 001518832 
+ 100 .. $a 19830131afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Protection 
+ 305 1. $a Voir aussi la subdivision Protection aux catégories de personnes, êtres vivants, matériaux, véhicules et sujets noms communs appropriés (types d'équipements, installations, produits, etc.) 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Défense de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Défense 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Sécurité 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Protection de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Sauvegarde de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Sécurité de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Sécurité environnementale 
+ 550 .. $5 z $0 Voir aussi $3 18000921 $7 ba0yba0y $8 fre $9 $a Écocide 
+ 550 .. $5 z $0 Voir aussi $3 12323145 $7 ba0yba0y $8 fre $9 $a Conseillers en environnement 
+ 550 .. $5 z $0 Voir aussi $3 16211448 $7 ba0yba0y $8 fre $9 $a Défenseurs de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 12251699 $7 ba0yba0y $8 fre $9 $a Éco-industries 
+ 550 .. $5 z $0 Voir aussi $3 11974343 $7 ba0yba0y $8 fre $9 $a Environnement 
+ 550 .. $5 z $0 Voir aussi $3 12168038 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Subventions 
+ 550 .. $5 z $0 Voir aussi $3 17020336 $7 ba0yba0y $8 fre $9 $a Environnement $x Qualité 
+ 550 .. $5 z $0 Voir aussi $3 11967247 $7 ba0yba0y $8 fre $9 $a Environnement $x Surveillance 
+ 550 .. $5 z $0 Voir aussi $3 13555607 $7 ba0yba0y $8 fre $9 $a Génie écologique 
+ 550 .. $5 z $0 Voir aussi $3 12500790 $7 ba0yba0y $8 fre $9 $a Gestion de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11973321 $7 ba0yba0y $8 fre $9 $a Nuisances 
+ 550 .. $5 z $0 Voir aussi $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11932823 $7 ba0yba0y $8 fre $9 $a Pollution 
+ 550 .. $5 z $0 Voir aussi $3 11975698 $7 ba0yba0y $8 fre $9 $a Protection 
+ 550 .. $5 z $0 Voir aussi $3 11976343 $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 550 .. $5 h $3 13189645 $7 ba0yba0y $8 fre $9 $a Normes ISO 14000 
+ 550 .. $5 h $3 16238916 $7 ba0yba0y $8 fre $9 $a Norme ISO 19011 
+ 550 .. $5 h $3 17001701 $7 ba0yba0y $8 fre $9 $a Climat $x Changements -- Atténuation 
+ 550 .. $5 h $3 12289222 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Aspect religieux 
+ 550 .. $5 h $3 11941933 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Participation des citoyens 
+ 550 .. $5 h $3 13320420 $7 ba0yba0y $8 fre $9 $a Éthique de l'environnement 
+ 550 .. $5 h $3 11932598 $7 ba0yba0y $8 fre $9 $a Nature $x Protection 
+ 550 .. $5 h $3 11946243 $7 ba0yba0y $8 fre $9 $a Paysage $x Protection 
+ 550 .. $5 h $3 13318557 $7 ba0yba0y $8 fre $9 $a Pollution $x Lutte contre 
+ 550 .. $5 h $3 13564166 $7 ba0yba0y $8 fre $9 $a Principe de précaution 
+ 550 .. $5 h $3 15985069 $7 ba0yba0y $8 fre $9 $a Servitudes environnementales 
+ 550 .. $5 h $3 12320729 $7 ba0yba0y $8 fre $9 $a Sols $x Protection 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20160119 
+ 810 .. $a Grand Robert de la langue française, 2001 (art. : Protection) 
+ 810 .. $a Dict. de l'environnement / Association française de normalisation, 2001 $a Une protection de l'environnement à la française ? : XIXe-XXe siècles / C.-F. Mathis, J.-F. Mouhot, 2013 
+ 822 12 $a Environnement -- Protection $2 RVMLaval $d 2016-01-19 
+ 822 1. $a Environmental protection $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044203 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb11931256w.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF119821859 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb11982185g 
+ 005 20140313 
+ 039 .. $o OPL $a 002203259 
+ 100 .. $a 19850708afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Maladies de l'environnement 
+ 305 1. $a Voir aussi la subdivision Aspect environnemental aux forces armées, guerres, industries, maladies, matériaux, produits chimiques, véhicules et sujets noms communs appropriés 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Écophysiopathologie 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Aspect médical 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement et médecine 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement et santé 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Maladies dues à l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Médecine de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Médecine et environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Santé et environnement 
+ 550 .. $5 z $0 Voir aussi $3 11959574 $7 ba0yba0y $8 fre $9 $a Aspect environnemental 
+ 550 .. $5 z $0 Voir aussi $3 11974343 $7 ba0yba0y $8 fre $9 $a Environnement 
+ 550 .. $5 z $0 Voir aussi $3 11967035 $7 ba0yba0y $8 fre $9 $a Hygiène du milieu 
+ 550 .. $5 h $3 16606902 $7 ba0yba0y $8 fre $9 $a Intolérance idiopathique attribuée aux champs électromagnétiques 
+ 550 .. $5 h $3 15094915 $7 ba0yba0y $8 fre $9 $a Syndrome des bâtiments malsains 
+ 686 .. $a 577 $2 Note de regroupement par domaine 
+ 686 .. $a 610 $c Sciences médicales et paramédicales $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20140313 
+ 822 12 $a Maladies de l'environnement $2 RVMLaval $d 2014-03-13 
+ 822 1. $a Disorders of Environmental Origin $2 MeSH $u http://id.nlm.nih.gov/mesh/M0011360 $d 2014-03-13 
+ 822 1. $a Environmentally induced diseases $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044215 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb11982185g.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF119763434 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb11976343v 
+ 005 20050405 
+ 039 .. $o OPL $a 002128931 
+ 100 .. $a 19850702afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Contrôle de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Contrôle 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Technique 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement, Génie de l' 
+ 450 .. $7 ba0yba0y $8 fre $9 2 $a Environnement, Technique de l' 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Génie de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Ingénierie de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Technique de protection de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Techniques de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Technologie de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 12323145 $7 ba0yba0y $8 fre $9 $a Conseillers en environnement 
+ 550 .. $5 z $0 Voir aussi $3 12251699 $7 ba0yba0y $8 fre $9 $a Éco-industries 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 13555607 $7 ba0yba0y $8 fre $9 $a Génie écologique 
+ 550 .. $5 z $0 Voir aussi $3 12500790 $7 ba0yba0y $8 fre $9 $a Gestion de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11967035 $7 ba0yba0y $8 fre $9 $a Hygiène du milieu 
+ 550 .. $5 z $0 Voir aussi $3 12006855 $7 ba0yba0y $8 fre $9 $a Ingénieurs de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 550 .. $5 h $3 16642189 $7 ba0yba0y $8 fre $9 $a Géo-ingénierie 
+ 550 .. $5 h $3 12098364 $7 ba0yba0y $8 fre $9 $a Air $x Qualité -- Gestion 
+ 550 .. $5 h $3 12246677 $7 ba0yba0y $8 fre $9 $a Audits d'environnement 
+ 550 .. $5 h $3 12310327 $7 ba0yba0y $8 fre $9 $a Biotechnologie appliquée à l'environnement 
+ 550 .. $5 h $3 11952258 $7 ba0yba0y $8 fre $9 $a Environnement $x Études d'impact 
+ 550 .. $5 h $3 12217587 $7 ba0yba0y $8 fre $9 $a Essais d'environnement 
+ 550 .. $5 h $3 12555960 $7 ba0yba0y $8 fre $9 $a Géotechnique de l'environnement 
+ 550 .. $5 h $3 13757255 $7 ba0yba0y $8 fre $9 $a Planètes $x Technique de l'environnement 
+ 550 .. $5 h $3 13318557 $7 ba0yba0y $8 fre $9 $a Pollution $x Lutte contre 
+ 550 .. $5 h $3 12273046 $7 ba0yba0y $8 fre $9 $a Technologie douce 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20050405 
+ 822 1. $a Environmental engineering $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044170 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb11976343v.unimarc 
+ 
+----------------------------------
+ 000 nx j22 45 
+ 001 FRBNF123042333 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb12304233f 
+ 005 19930413 
+ 039 .. $o OPL $a 008865134 
+ 100 .. $a 19930413afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement et adolescents 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Adolescents et environnement 
+ 550 .. $5 z $0 Voir aussi $3 11935341 $7 ba0yba0y $8 fre $9 2 $a Adolescents 
+ 801 .. $a FR $b FR-751131015 $c 19930413 
+ 822 12 $a Environnement et adolescents $2 RVMLaval $d 1993-04-13 
+ 822 1. $a Environment and teenagers $2 LCSH $u http://id.loc.gov/authorities/subjects/sh90003470 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb12304233f.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF120484517 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb120484516 
+ 005 19921030 
+ 039 .. $o OPL $a 003484446 
+ 100 .. $a 19860101afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Médias et environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement et médias 
+ 550 .. $5 z $0 Voir aussi $3 11932331 $7 ba0yba0y $8 fre $9 $a Médias 
+ 686 .. $a 020 $c Sciences de l'information $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 19921030 
+ 822 12 $a Médias et environnement $2 RVMLaval $d 1992-10-30 
+ 822 1. $a Mass media and the environment $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85081891 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb120484516.unimarc 
+ 
+----------------------------------
+ 000 nx j22 45 
+ 001 FRBNF170203360 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb17020336c 
+ 100 .. $a 20160119afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Qualité 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Qualité de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 11974343 $7 ba0yba0y $8 fre $9 2 $a Environnement 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 2 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 11967247 $7 ba0yba0y $8 fre $9 2 $a Environnement $x Surveillance 
+ 550 .. $5 z $0 Voir aussi $3 11973321 $7 ba0yba0y $8 fre $9 2 $a Nuisances 
+ 550 .. $5 z $0 Voir aussi $3 11932823 $7 ba0yba0y $8 fre $9 2 $a Pollution 
+ 550 .. $5 h $3 11973652 $7 ba0yba0y $8 fre $9 $a Sols $x Qualité 
+ 550 .. $5 h $3 11977562 $7 ba0yba0y $8 fre $9 2 $a Air $x Qualité 
+ 550 .. $5 h $3 11949466 $7 ba0yba0y $8 fre $9 $a Qualité de l'eau 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20160119 
+ 810 .. $a Dict. de l'environnement / Association française de normalisation, 2001 $a Végétation et qualité de l'environnement côtier en Méditerranée / J.-M. Gehu, 1992 
+ 822 12 $a Environnement -- Qualité $2 RVMLaval $d 2016-01-19 
+ 822 1. $a Environmental quality $2 LCSH $u http://id.loc.gov/authorities/subjects/sh96004157 $d 2016-01-19 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb17020336c.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF122032350 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb12203235q 
+ 005 20020927 
+ 039 .. $o OPL $a 007089877 
+ 100 .. $a 19910604afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Géochimie de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Géochimie 
+ 550 .. $5 g $3 11983319 $7 ba0yba0y $8 fre $9 2 $a Chimie de l'environnement 
+ 550 .. $5 g $3 11935855 $7 ba0yba0y $8 fre $9 2 $a Géochimie 
+ 550 .. $5 g $3 11973604 $7 ba0yba0y $8 fre $9 2 $a Sciences de l'environnement 
+ 686 .. $a 540 $c Chimie, minéralogie, cristallographie $2 Note de regroupement par domaine 
+ 686 .. $a 550 $c Sciences de la Terre $2 Note de regroupement par domaine 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20020927 
+ 822 12 $a Géochimie de l'environnement $2 RVMLaval $d 2002-09-27 
+ 822 1. $a Environmental geochemistry $2 LCSH $u http://id.loc.gov/authorities/subjects/sh89003589 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb12203235q.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF170767998 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb17076799v 
+ 005 20161005 
+ 100 .. $a 20161005afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Femmes et environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement et femmes 
+ 550 .. $5 z $0 Voir aussi $3 12560461 $7 ba0yba0y $8 fre $9 2 $a Écoféminisme 
+ 550 .. $5 g $3 13318499 $7 ba0yba0y $8 fre $9 2 $a Écologie humaine 
+ 686 .. $a 577 $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20161005 
+ 810 .. $a Genre, mouvements populaires urbains et environnement / C. Verschuur, 2007 (p. 31) $a L'enjeu femme et environnement dans le développement minier en Afrique / C. Guimont, 2012 $a Femmes et environnement. L'écologie a-t-elle un sexe? / D. Pavlenko [in] Sud radio, 2015-12-08 - http://www.sudradio.fr (2016-10-05) $a Ouverture des inscriptions du Prix des Femmes Marjolaine 2016, 2016 - http://agriculture.gouv.fr (2016-10-05) 
+ 822 12 $a Femmes et environnement $2 RVMLaval $d 2016-10-05 
+ 822 1. $a Women and the environment $2 LCSH $u http://id.loc.gov/authorities/subjects/sh2003003094 $d 2016-10-05 
+ 856 .. $u http://www.sudradio.fr $e 2016-10-05 $u http://agriculture.gouv.fr $e 2016-10-05 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb17076799v.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF151270148 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb15127014t 
+ 005 20121109 
+ 035 .. $a (Sudoc)110590791 
+ 100 .. $a 20070111afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement éducatif 
+ 300 1. $a Environnement qui concourt à créer de près ou de loin (en classe ou hors de la classe) les meilleures conditions d'apprentissage pour les élèves 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Climat d'apprentissage 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Climat pédagogique 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Éducation $x Environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement d'apprentissage 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement de l'éducation 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement socioéducatif 
+ 550 .. $5 z $0 Voir aussi $3 16968854 $7 ba0yba0y $8 fre $9 $a Environnement d'apprentissage personnel 
+ 550 .. $5 z $0 Voir aussi $3 11982718 $7 ba0yba0y $8 fre $9 $a Classes $x éducation) -- Conduite 
+ 550 .. $5 z $0 Voir aussi $3 12653997 $7 ba0yba0y $8 fre $9 $a Milieu scolaire 
+ 550 .. $5 h $3 16613361 $7 ba0yba0y $8 fre $9 $a Relations université-milieu scolaire 
+ 550 .. $5 g $3 11937229 $7 ba0yba0y $8 fre $9 $a Psychologie de l'apprentissage 
+ 550 .. $5 g $3 11933283 $7 ba0yba0y $8 fre $9 $a Sociologie de l'éducation 
+ 686 .. $a 150 $c Psychologie, psychanalyse $2 Note de regroupement par domaine 
+ 686 .. $a 300 $c Sciences sociales $2 Note de regroupement par domaine 
+ 686 .. $a 370 $c Education et enseignement $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20121109 
+ 810 .. $a Dict. actuel de l'éducation / R. Legendre, 1993 $a Écoles, médiations et réformes curriculaires : perspectives internationales / R. Malet, 2010 $a Le dispositif GEODE pour évaluer l'ouverture d'un environnement éducatif / A. Jézégou [in] Revue de l'éducation à distance, 2009, 24 $a Die Förderung des Klimas in Integrationsklassen der Sekundarstufe I : explorative Studie zum pädagogischen Klima in integrativen Versuchsklassen auf Sekundarstufe I / M. Moser, 2012 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb15127014t.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF123828261 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb123828260 
+ 005 19970210 
+ 039 .. $o OPL $a 010084235 
+ 100 .. $a 19940405afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement et enfants 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Enfants et environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Enfants $x Découverte de l'environnement 
+ 550 .. $5 z $0 Voir aussi $3 15546981 $7 ba0yba0y $8 fre $9 $a Éducation au développement durable 
+ 550 .. $5 z $0 Voir aussi $3 11945402 $7 ba0yba0y $8 fre $9 $a Classes de découverte 
+ 550 .. $5 z $0 Voir aussi $3 12048810 $7 ba0yba0y $8 fre $9 2 $a Environnement $x Étude et enseignement 
+ 550 .. $5 g $3 11931981 $7 ba0yba0y $8 fre $9 2 $a Enfants 
+ 686 .. $a 570 $c Sciences de la vie $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 19970210 
+ 822 12 $a Environnement et enfants $2 RVMLaval $d 1997-02-10 
+ 822 1. $a Environment and children $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044165 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb123828260.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF120289862 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb12028986t 
+ 005 19880518 
+ 039 .. $o OPL $a 003020257 
+ 100 .. $a 19840101afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Droit international 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Droit international de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement (droit international) 
+ 540 .. $5 h $3 16165440 $t Convention sur la protection des Alpes (1991) 
+ 540 .. $5 h $3 14536052 $t Convention d'Aarhus (1998) 
+ 540 .. $5 h $3 14449766 $a Nations Unies $t Convention des Nations unies sur le droit des cours d'eau internationaux (1997) 
+ 540 .. $5 h $3 12453433 $a Nations Unies $t Convention cadre des Nations unies sur les changements climatiques (1992) 
+ 550 .. $5 z $0 Voir aussi $3 16605953 $7 ba0yba0y $8 fre $9 $a Animaux $x Droit international 
+ 550 .. $5 z $0 Voir aussi $3 11952259 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement $x Coopération internationale 
+ 550 .. $5 h $3 16698032 $7 ba0yba0y $8 fre $9 $a Droit forestier (droit international) 
+ 550 .. $5 h $3 12653322 $7 ba0yba0y $8 fre $9 $a Eau $x Droit international 
+ 550 .. $5 h $3 12217245 $7 ba0yba0y $8 fre $9 $a Patrimoine commun de l'humanité 
+ 550 .. $5 h $3 12048289 $7 ba0yba0y $8 fre $9 $a Pollution $x Droit international 
+ 550 .. $5 h $3 13775155 $7 ba0yba0y $8 fre $9 $a Plantes $x Conservation des ressources -- Droit international 
+ 550 .. $5 h $3 13775154 $7 ba0yba0y $8 fre $9 $a Animaux $x Conservation des ressources -- Droit international 
+ 550 .. $5 g $3 12654022 $7 ba0yba0y $8 fre $9 $a Droit international 
+ 801 .. $a FR $b FR-751131015 $c 19880518 
+ 822 12 $a Environnement -- Droit international $2 RVMLaval $d 1988-05-18 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb12028986t.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF119312552 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb11931255j 
+ 005 20120921 
+ 039 .. $o OPL $a 001518825 
+ 100 .. $a 19820219afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Droit 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Droit à l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Droit de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Droit environnemental 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Protection -- Droit 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Gestion de l'environnement $x Droit 
+ 550 .. $5 z $0 Voir aussi $3 18000921 $7 ba0yba0y $8 fre $9 $a Écocide 
+ 550 .. $5 z $0 Voir aussi $3 11971977 $7 ba0yba0y $8 fre $9 $a Environnement $x Droit -- Dispositions pénales 
+ 550 .. $5 z $0 Voir aussi $3 11950154 $7 ba0yba0y $8 fre $9 $a Pollution de l'eau $x Droit 
+ 550 .. $5 z $0 Voir aussi $3 11974343 $7 ba0yba0y $8 fre $9 $a Environnement 
+ 550 .. $5 z $0 Voir aussi $3 12050445 $7 ba0yba0y $8 fre $9 $a Mer $x Pollution -- Droit 
+ 550 .. $5 z $0 Voir aussi $3 11973321 $7 ba0yba0y $8 fre $9 $a Nuisances 
+ 550 .. $5 z $0 Voir aussi $3 11939620 $7 ba0yba0y $8 fre $9 $a Pollution $x Droit 
+ 550 .. $5 z $0 Voir aussi $3 14554044 $7 ba0yba0y $8 fre $9 $a Permis de pollution négociables 
+ 550 .. $5 h $3 16948405 $7 ba0yba0y $8 fre $9 $a Compensation écologique 
+ 550 .. $5 h $3 12099013 $7 ba0yba0y $8 fre $9 $a Environnement $x Droit européen 
+ 550 .. $5 h $3 11977700 $7 ba0yba0y $8 fre $9 $a Bruit $x Lutte contre -- Droit 
+ 550 .. $5 h $3 12110888 $7 ba0yba0y $8 fre $9 $a Déchets $x Élimination -- Droit 
+ 550 .. $5 h $3 11972060 $7 ba0yba0y $8 fre $9 $a Déchets industriels $x Droit 
+ 550 .. $5 h $3 11967206 $7 ba0yba0y $8 fre $9 $a Déversements de pétrole $x Droit 
+ 550 .. $5 h $3 16514269 $7 ba0yba0y $8 fre $9 $a Générations futures (droit) 
+ 550 .. $5 h $3 12338172 $7 ba0yba0y $8 fre $9 $a Infractions contre l'environnement 
+ 550 .. $5 h $3 12503501 $7 ba0yba0y $8 fre $9 $a Installations classées 
+ 550 .. $5 h $3 11935680 $7 ba0yba0y $8 fre $9 $a Nature $x Protection -- Droit 
+ 550 .. $5 h $3 12010907 $7 ba0yba0y $8 fre $9 $a Réserves naturelles $x Droit 
+ 550 .. $5 h $3 11941934 $7 ba0yba0y $8 fre $9 $a Responsabilité pour dommages à l'environnement 
+ 550 .. $5 h $3 11955028 $7 ba0yba0y $8 fre $9 $a Ressources naturelles $x Droit 
+ 550 .. $5 h $3 11937734 $7 ba0yba0y $8 fre $9 $a Rivage $x Protection -- Droit 
+ 550 .. $5 g $3 13318687 $7 ba0yba0y $8 fre $9 $a Droit 
+ 686 .. $a 340 $c Droit $2 Note de regroupement par domaine 
+ 686 .. $a 577 $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20120921 
+ 810 .. $a Vocabulaire juridique / G. Cornu, 2007 $a JurisClasseur Environnement et Développement durable Fasc. 2200 : Environnement et Droit de l'environnement . Définitions $a Droit de l'environnement / M. Prieur, 2003 
+ 822 12 $a Environnement -- Droit $2 RVMLaval $d 2012-09-21 
+ 822 1. $a Environmental law $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044184 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb11931255j.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF16968854X 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb16968854v 
+ 005 20150610 
+ 100 .. $a 20150603afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Environnement d'apprentissage personnel 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Apprentissage, Environnement personnel d' 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement personnel d'apprentissage 
+ 550 .. $5 z $0 Voir aussi $3 13324494 $7 ba0yba0y $8 fre $9 $a Autodidaxie 
+ 550 .. $5 z $0 Voir aussi $3 12254343 $7 ba0yba0y $8 fre $9 $a Échange de savoirs 
+ 550 .. $5 z $0 Voir aussi $3 15127014 $7 ba0yba0y $8 fre $9 $a Environnement éducatif 
+ 550 .. $5 z $0 Voir aussi $3 15604449 $7 ba0yba0y $8 fre $9 $a Environnement numérique de travail 
+ 550 .. $5 g $3 15942398 $7 ba0yba0y $8 fre $9 $a Apprentissage 
+ 686 .. $a 370 $c Education et enseignement $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20150610 
+ 810 .. $a L'environnement d'apprentissage personnel : une nouvelle façon d'organiser les savoirs / D. Roth, T. Werkmeister, 2011 $a L'environnement d'apprentissage personnel : l'avenir de la formation - http://www.usherbrooke.ca (2015-06-03) $a Les environnements personnels d'apprentissage : entre description et conceptualisation [in] Sticef, numéro spécial, 2014, 21 - http://sticef.univ-lemans.fr (2015-06-03) $a Construction et régulation de l'environnement personnel d'apprentissage d'étudiants universitaires : une recherche exploratoire / J. Felder 2014 
+ 856 .. $u http://www.usherbrooke.ca $e 2015-06-03 $u http://sticef.univ-lemans.fr $e 2015-06-03 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb16968854v.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF125559607 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb12555960w 
+ 005 19970306 
+ 039 .. $o OPL $a 013114228 
+ 100 .. $a 19970226afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Géotechnique de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Géotechnologie de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement, Géotechnique de l' 
+ 550 .. $5 g $3 12384966 $7 ba0yba0y $8 fre $9 2 $a Géoécologie 
+ 550 .. $5 g $3 11976343 $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 801 .. $a FR $b FR-751131015 $c 19970306 
+ 822 12 $a Géotechnique de l'environnement $2 RVMLaval $d 1997-03-06 
+ 822 1. $a Environmental geotechnology $2 LCSH $u http://id.loc.gov/authorities/subjects/sh92006148 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb12555960w.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF122466770 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb122466779 
+ 005 19920525 
+ 039 .. $o OPL $a 008139895 
+ 100 .. $a 19920504afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Audits d'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Audit d'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Études d'impact -- Vérification 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Vérification 
+ 450 .. $7 ba0yba0y $8 fre $9 2 $a Vérification (gestion de l'environnement) 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Vérification environnementale 
+ 550 .. $5 z $0 Voir aussi $3 17071288 $7 ba0yba0y $8 fre $9 $a Information environnementale 
+ 550 .. $5 g $3 11952258 $7 ba0yba0y $8 fre $9 $a Environnement $x Études d'impact 
+ 550 .. $5 g $3 11976343 $7 ba0yba0y $8 fre $9 $a Technique de l'environnement 
+ 550 .. $5 g $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 801 .. $a FR $b FR-751131015 $c 19920525 
+ 810 .. $a Rens. tél., 1992-05-25, Ministère de l'Environnement, Centre de documentation générale 
+ 822 1. $a Environmental auditing $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85044167 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb122466779.unimarc 
+ 
+----------------------------------
+ 000 cx j22 45 
+ 001 FRBNF119328236 
+ 003 http://catalogue.bnf.fr/ark:/12148/cb11932823t 
+ 005 20140313 
+ 039 .. $o OPL $a 00153807X 
+ 100 .. $a 19850620afrey50 ba0 
+ 106 .. $a 211 
+ 152 .. $b rameau $c 2 
+ 250 .. $7 ba0yba0y $8 fre $9 $a Pollution 
+ 305 1. $a Voir aussi la subdivision Aspect environnemental aux forces armées, guerres, industries, maladies, matériaux, produits chimiques, véhicules et sujets noms communs appropriés 
+ 305 1. $a Voir aussi la subdivision Effets de la pollution aux êtres vivants, matériaux, parties du corps, produits chimiques et sujets noms communs appropriés (sujets scientifiques et techniques) 
+ 305 1. $a Voir aussi la subdivision Résistance à la pollution aux êtres vivants et parties du corps 
+ 330 .. $a Sous cette vedette, on trouve les documents sur les conséquences de l'action des contaminants de l'environnement. Les documents sur les substances qui contaminent ou dégradent l'environnement se trouvent sous Polluants 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Atteintes à l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Contamination de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Dégradation de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Dommages à l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Dégradation 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Environnement $x Pollution 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Pollution chimique 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Pollution de l'environnement 
+ 450 .. $7 ba0yba0y $8 fre $9 $a Pollution industrielle 
+ 550 .. $5 z $0 Voir aussi $3 18000921 $7 ba0yba0y $8 fre $9 $a Écocide 
+ 550 .. $5 z $0 Voir aussi $3 11964903 $7 ba0yba0y $8 fre $9 $a Contamination 
+ 550 .. $5 z $0 Voir aussi $3 17020336 $7 ba0yba0y $8 fre $9 $a Environnement $x Qualité 
+ 550 .. $5 z $0 Voir aussi $3 11931256 $7 ba0yba0y $8 fre $9 $a Environnement $x Protection 
+ 550 .. $5 z $0 Voir aussi $3 16761606 $7 ba0yba0y $8 fre $9 $a Pollution visuelle 
+ 550 .. $5 z $0 Voir aussi $3 11959574 $7 ba0yba0y $8 fre $9 $a Aspect environnemental 
+ 550 .. $5 z $0 Voir aussi $3 13318923 $7 ba0yba0y $8 fre $9 $a Déchets dangereux 
+ 550 .. $5 z $0 Voir aussi $3 13319023 $7 ba0yba0y $8 fre $9 $a Déchets industriels 
+ 550 .. $5 z $0 Voir aussi $3 11938315 $7 ba0yba0y $8 fre $9 $a Écotoxicologie 
+ 550 .. $5 z $0 Voir aussi $3 12043939 $7 ba0yba0y $8 fre $9 $a Effets de la pollution 
+ 550 .. $5 z $0 Voir aussi $3 11967035 $7 ba0yba0y $8 fre $9 $a Hygiène du milieu 
+ 550 .. $5 z $0 Voir aussi $3 11954189 $7 ba0yba0y $8 fre $9 $a Industrie $x Aspect environnemental 
+ 550 .. $5 z $0 Voir aussi $3 11982584 $7 ba0yba0y $8 fre $9 $a Polluants 
+ 550 .. $5 z $0 Voir aussi $3 13318557 $7 ba0yba0y $8 fre $9 $a Pollution $x Lutte contre 
+ 550 .. $5 z $0 Voir aussi $3 12469725 $7 ba0yba0y $8 fre $9 $a Résistance à la pollution 
+ 550 .. $5 z $0 Voir aussi $3 14632551 $7 ba0yba0y $8 fre $9 $a Restauration in situ 
+ 550 .. $5 h $3 17095499 $7 ba0yba0y $8 fre $9 $a Déchets sauvages 
+ 550 .. $5 h $3 11930853 $7 ba0yba0y $8 fre $9 $a Pollution atmosphérique 
+ 550 .. $5 h $3 12045860 $7 ba0yba0y $8 fre $9 $a Catastrophes écologiques 
+ 550 .. $5 h $3 12527835 $7 ba0yba0y $8 fre $9 $a Désamiantage 
+ 550 .. $5 h $3 11931914 $7 ba0yba0y $8 fre $9 $a Pollution de l'eau 
+ 550 .. $5 h $3 12235331 $7 ba0yba0y $8 fre $9 $a Espace extra-atmosphérique $x Pollution 
+ 550 .. $5 h $3 11978141 $7 ba0yba0y $8 fre $9 $a Pesticides $x Résidus 
+ 550 .. $5 h $3 11972142 $7 ba0yba0y $8 fre $9 $a Pollution agricole 
+ 550 .. $5 h $3 14411465 $7 ba0yba0y $8 fre $9 $a Pollution lumineuse 
+ 550 .. $5 h $3 16737026 $7 ba0yba0y $8 fre $9 $a Pollution médicamenteuse 
+ 550 .. $5 h $3 11931087 $7 ba0yba0y $8 fre $9 $a Pollution par le bruit 
+ 550 .. $5 h $3 12570316 $7 ba0yba0y $8 fre $9 $a Sédiments contaminés 
+ 550 .. $5 h $3 13178707 $7 ba0yba0y $8 fre $9 $a Sites contaminés 
+ 550 .. $5 h $3 11977861 $7 ba0yba0y $8 fre $9 $a Sols $x Pollution 
+ 550 .. $5 g $3 11932055 $7 ba0yba0y $8 fre $9 $a Nature $x Effets de l'homme 
+ 550 .. $5 g $3 11931257 $7 ba0yba0y $8 fre $9 $a Politique de l'environnement 
+ 550 .. $5 g $3 13318950 $7 ba0yba0y $8 fre $9 $a Génie sanitaire 
+ 686 .. $a 577 $2 Note de regroupement par domaine 
+ 801 .. $a FR $b FR-751131015 $c 20140313 
+ 822 12 $a Pollution $2 RVMLaval $d 2014-03-13 
+ 822 12 $a Pollution $2 LCSH $u http://id.loc.gov/authorities/subjects/sh85104530 $d 2017-02-09 
+
+Identifiant de la notice au format Unimarc : ark:/12148/cb11932823t.unimarc 
+ 
+----------------------------------
