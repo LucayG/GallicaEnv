@@ -75,7 +75,7 @@ python >= 3.6
 
 <u>Modules python</u> :
 
-- sklearn
+- sklearn >= 1.0
 - html
 - sys
 - os
