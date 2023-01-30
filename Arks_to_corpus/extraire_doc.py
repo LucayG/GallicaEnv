@@ -12,7 +12,7 @@ limite = "Le taux de reconnaissance estimé pour ce document est de "
 
 nb = 0
 
-with open (file_input, 'r') as file, open("corpus.txt", 'w') as file_output, open("correspondances.txt", "w") as file_match:
+with open (file_input, 'r', encoding='utf8') as file, open("corpus.txt", 'w', encoding='utf8') as file_output, open("correspondances.txt", "w", encoding='utf8') as file_match:
 	for ark in file:
 		nb +=1
 		ark = ark.rstrip("\n")
