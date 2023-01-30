@@ -46,7 +46,7 @@ print("shape : " + str(np.shape(matrice)))
 
 ''' Creation du fichier csv'''
 
-with open("Matrice_binaire.csv", 'w') as fichiercsv :
+with open("Matrice_binaire.csv", 'w', encoding='utf8') as fichiercsv :
     '''for i in range(len(liste_termes)):
         liste_termes[i] = liste_termes[i].encode()
     '''
