@@ -19,7 +19,7 @@ entete = input("Souhaitez-vous conserver l'entête des documents ? (o/n) ")
 nb = 0
 
 
-with open (file_input, 'r') as fic:
+with open (file_input, 'r', encoding='utf8') as fic:
 	for ark in fic:
 		nb += 1
 		ark = ark.rstrip("\n")
@@ -45,7 +45,7 @@ with open (file_input, 'r') as fic:
 		for j in liste_entete :
 			if j.startswith("Titre : "):
 				titre = j.replace("Titre : ", "")
-				with open("Resultat/"+ str(nb)+ "_" + titre[:10] + ".txt", "w") as title_file, open("Resultat/correspondances.txt", "a") as file_match:
+				with open("Resultat/"+ str(nb)+ "_" + titre[:10] + ".txt", "w", encoding='utf8') as title_file, open("Resultat/correspondances.txt", "a", encoding='utf8') as file_match:
 					for i in liste:
 						title_file.write(i)
 					file_match.write("Document "+str(nb)+" : "+ark+'\n')
