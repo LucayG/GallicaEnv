@@ -1,10 +1,11 @@
 import re
+import unicodedata
 
 #Script nettoyage pour enlever tous les stopwords, il faut fournir la liste de stopwords et le corpus de travail a nettoyer
 
 file_stopwords = input("Fichier txt contenant la liste des mots à retirer (avec l'extension .txt) : ")
 
-with open(file_stopwords, "r") as f: #fichier qui contient liste de stopwords
+with open(file_stopwords, "r", encoding='utf8') as f: #fichier qui contient liste de stopwords
     my_stopwords = f.read()
     my_stopwords = my_stopwords.split()
 
@@ -21,10 +22,11 @@ def remove_mystopwords(text):
     return (" ").join(tokens_filtered)
 
 file_input = input("Fichier txt contenant le corpus à nettoyer (avec l'extension .txt) : ")
-text = open(file_input, "r")
+text = open(file_input, "r", encoding='utf8')
 
-with open("corpus_nettoye.txt", "w") as file_output :
+with open("corpus_nettoye.txt", "w", encoding='utf8') as file_output :
 	for token in text:
 		filtered_text = remove_mystopwords(token)
+		filtered_text = unicodedata.normalize('NFKD', filtered_text).encode('ascii','ignore').decode('ascii') # met "a plat" les accents
 		file_output.write(filtered_text+"\n")
     
