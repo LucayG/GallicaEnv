@@ -11,7 +11,7 @@ print("Liste des documents : ",fichiers)
 	
 fichier_concat = []
 for filename in fichiers:
-	with open(monRepertoire + "/" + filename, "r") as fic:
+	with open(monRepertoire + "/" + filename, "r", encoding="utf8") as fic:
 		fichier_concat.append(fic.read())
 
 liste_vocab = open(input("Fichier txt contenant la liste de vocabulaire (avec l'extension .txt) : "), 'r').readlines()
