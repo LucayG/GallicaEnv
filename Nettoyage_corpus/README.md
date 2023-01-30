@@ -29,6 +29,7 @@ python >= 3.6
 <u>Modules python</u> :
 
 - re
+- unicodedata
 
 Si vous obtenez une erreur "ModuleNotFoundError" liée à l'un des modules ci-dessus, une des lignes de commande suivantes devrait suffire à régler le problème :
 
